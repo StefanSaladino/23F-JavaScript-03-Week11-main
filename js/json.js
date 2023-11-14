@@ -3,11 +3,12 @@ const header = document.querySelector("header");
 const section = document.querySelector("section");
 
 // STEP 3a: Create the asynchronous function populate()
+async function populate() {
 
 // Introducing JavaScript Object Notation (JSON): https://json.org/
 // STEP 4a: Create i-scream.json file with companyName, headOffice, established, active, topFlavors(name, calories, type, ingredients, image) */
 // STEP 4b: Store the URL of a JSON file in a variable */
-
+const url = "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/js/i-scream.json";
 // STEP 5: Use the new URL to create a new request object
 
 // STEP 6: Make a network request with the fetch() function, which returns a Response object
@@ -19,7 +20,7 @@ const section = document.querySelector("section");
 // STEP 9a: Invoke the populateHeader function here, then build it below
 
 // STEP 10a: Invoke the showTopFlavors function here, then build it below
-
+}
 
 
 // STEP 3b: Call the populate() function
