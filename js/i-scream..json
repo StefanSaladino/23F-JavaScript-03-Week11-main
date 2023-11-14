@@ -1,0 +1,38 @@
+{
+    "companyName": "I-Scream Company",
+    "headOffice": "Here",
+    "established": 2023,
+    "active": true,
+    "topFlavours":[{
+        "name": "Vanilla",
+        "calories": 250,
+        "type": "ice cream",
+        "ingredients": [
+            "Vanilla extract",
+            "sugar",
+            "heavy cream"
+        ],
+        "image": "ice-cream-xtra1.svg"
+        }, {
+        "name": "Chocolate Mint",
+        "calories": 290,
+        "type":"ice cream",
+        "ingredients":[
+            "Chocolate syrup",
+            "heavy cream",
+            "sugar",
+            "peppermint extract"
+        ],
+        "image": "chocolate-mint.svg"}, {
+        "name": "Strawberry",
+        "calories": 230,
+        "type":"ice cream",
+        "ingredients":[
+            "Strawberries",
+            "heavy cream",
+            "sugar",
+            "sprinkles"
+        ],
+        "image": "strawberry-sprinkle.svg"
+            }]
+}
