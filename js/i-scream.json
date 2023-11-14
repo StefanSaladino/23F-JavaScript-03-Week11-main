@@ -12,7 +12,7 @@
             "sugar",
             "heavy cream"
         ],
-        "image": "ice-cream-xtra1.svg"
+        "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/ice-cream-xtra1.svg"
         }, {
         "name": "Chocolate Mint",
         "calories": 290,
@@ -23,7 +23,7 @@
             "sugar",
             "peppermint extract"
         ],
-        "image": "chocolate-mint.svg"}, {
+        "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/chocolate-mint.svg"}, {
         "name": "Strawberry",
         "calories": 230,
         "type":"ice cream",
@@ -33,6 +33,6 @@
             "sugar",
             "sprinkles"
         ],
-        "image": "strawberry-sprinkle.svg"
+        "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/strawberry-sprinkle.svg"
             }]
 }
