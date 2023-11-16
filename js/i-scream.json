@@ -3,7 +3,8 @@
     "headOffice": "Here",
     "established": 2023,
     "active": true,
-    "topFlavours":[{
+    "topFlavours":[
+        {
         "name": "Vanilla",
         "calories": 250,
         "type": "ice cream",
@@ -13,7 +14,9 @@
             "heavy cream"
         ],
         "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/ice-cream-xtra1.svg"
-        }, {
+        },
+        
+        {
         "name": "Chocolate Mint",
         "calories": 290,
         "type":"ice cream",
@@ -25,6 +28,7 @@
         ],
         "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/chocolate-mint.svg"
         }, 
+
         {
         "name": "Strawberry",
         "calories": 230,
@@ -37,6 +41,7 @@
         ],
         "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/strawberry-sprinkle.svg"
             },
+
         {
                 "name": "Peach Mango",
                 "calories": 310,
@@ -47,6 +52,18 @@
                     "peach syrup"
                 ],
                 "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/peach-mango.svg"
-                } 
+                },
+        
+                {
+                    "name": "Mystery flavour",
+                    "calories": 230,
+                    "type":"ice cream",
+                    "ingredients":[
+                        "I can't say",
+                        "Because it's a",
+                        "secret"
+                    ],
+                    "image": "https://stefansaladino.github.io/23F-JavaScript-03-Week11-main/images/ice-cream-xtra2.svg"
+                    }         
         ]
 }
